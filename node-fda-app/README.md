@@ -1,4 +1,4 @@
-# NodeFdaApp
+# NodeFdaApp (node-fda-app)
 
 This project was generated with [Node.js](https://github.com/nodejs/node) version 12.18.4.
 
