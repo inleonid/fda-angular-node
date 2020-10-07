@@ -22,7 +22,7 @@ Run `node index.js` for a dev server. Navigate to `http://localhost:4300/`.
 ## Running end-to-end tests
 
 <p align="center">
-    <a href="https://github.com/noderedis/node-redis/">
+    <a href="https://graphql.org/graphql-js/">
         <img width="190px" src="https://raw.githubusercontent.com/graphql/graphql-spec/master/resources/GraphQL%20Logo.svg"  style="max-width:100%;">
     </a>
     </p>
