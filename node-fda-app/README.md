@@ -21,7 +21,7 @@ Run `node index.js` for a dev server. Navigate to `http://localhost:4300/`.
 
 ## Running end-to-end tests
 
-<img alt="GraphQL Logo" align="right" src="resources/GraphQL%20Logo.svg" width="15%" />
+<a target="_blank" rel="noopener noreferrer" href="/graphql/graphql-spec/blob/master/resources/GraphQL%20Logo.svg"><img alt="GraphQL Logo" align="right" src="/graphql/graphql-spec/raw/master/resources/GraphQL%20Logo.svg" width="15%" style="max-width:100%;"></a>
 
 All Continents
 
@@ -34,6 +34,12 @@ http://localhost:4300/api/?query={countries(name:%20%22Asia%22){name%20callingCo
 
 
 ## Caching
+
+<p align="center">
+    <a href="https://github.com/noderedis/node-redis/">
+        <img width="190px" src="https://camo.githubusercontent.com/749fafd7841fda602fd674caea2e42eaa16d5a97/68747470733a2f2f7374617469632e696e766572746173652e696f2f6173736574732f6e6f64655f72656469735f6c6f676f2e706e67" data-canonical-src="https://static.invertase.io/assets/node_redis_logo.png" style="max-width:100%;">
+    </a>
+    </p>
 
 with redis 
 
