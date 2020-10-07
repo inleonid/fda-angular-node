@@ -21,7 +21,13 @@ Run `node index.js` for a dev server. Navigate to `http://localhost:4300/`.
 
 ## Running end-to-end tests
 
-<a target="_blank" rel="noopener noreferrer" href="/graphql/graphql-spec/blob/master/resources/GraphQL%20Logo.svg"><img alt="GraphQL Logo" align="right" src="/graphql/graphql-spec/raw/master/resources/GraphQL%20Logo.svg" width="15%" style="max-width:100%;"></a>
+<p align="center">
+    <a href="https://github.com/noderedis/node-redis/">
+        <img width="190px" src="https://raw.githubusercontent.com/graphql/graphql-spec/master/resources/GraphQL%20Logo.svg"  style="max-width:100%;">
+    </a>
+    </p>
+
+https://raw.githubusercontent.com/graphql/graphql-spec/master/resources/GraphQL%20Logo.svg
 
 All Continents
 
