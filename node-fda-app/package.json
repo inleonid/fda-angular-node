@@ -1,0 +1,40 @@
+{
+  "name": "node-fda-app",
+  "version": "1.0.0",
+  "description": "fullstack developer assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "vs",
+    "code"
+  ],
+  "config": {
+    "redis": {
+      "port": 12876,
+      "host": "redis-12876.c55.eu-central-1-1.ec2.cloud.redislabs.com",
+      "password": "NqU0EOKKKS2qEWPy1NPlpy5zzkYcyg4k"
+    }
+  },
+  "author": "SWI",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-redis-cache": "^0.1.22",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "express-session": "^1.17.1",
+    "graphql": "^15.3.0",
+    "graphql-server-express": "^1.4.1",
+    "graphql-tools": "^6.2.4",
+    "helmet": "^4.1.1",
+    "ioredis": "^4.17.3",
+    "redis": "^3.0.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}

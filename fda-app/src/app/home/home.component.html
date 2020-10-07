@@ -1,0 +1,22 @@
+<div class="container">
+  <div *ngIf="loading">
+    Loading...
+  </div>
+  <table class="table table-striped" *ngIf="!loading && continents">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Continent Code</th>
+        <th scope="col">Continent Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let continent of continents; index as i" (click)="navigateTo(continent.name)"
+        style="cursor: pointer;">
+        <th scope="row">{{ i + 1 }}</th>
+        <td>{{ continent.name }}</td>
+        <td>{{ continent.code + 1  }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
