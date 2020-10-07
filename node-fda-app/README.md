@@ -15,9 +15,13 @@ This project was generated with [Node.js](https://github.com/nodejs/node) versio
 
 ## Development server
 
+[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+
 Run `node index.js` for a dev server. Navigate to `http://localhost:4300/`. 
 
 ## Running end-to-end tests
+
+<img alt="GraphQL Logo" align="right" src="resources/GraphQL%20Logo.svg" width="15%" />
 
 All Continents
 
