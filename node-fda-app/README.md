@@ -20,10 +20,14 @@ Run `node index.js` for a dev server. Navigate to `http://localhost:4300/`.
 ## Running end-to-end tests
 
 All Continents
+
 http://localhost:4300/api/?query={regions{id%20code%20name}}
 
+
 Countries by continent
+
 http://localhost:4300/api/?query={countries(name:%20%22Asia%22){name%20callingCodes%20capital%20currencies{symbol%20name%20code}%20languages{name%20iso639_1}%20flag}}
+
 
 ## Caching
 
